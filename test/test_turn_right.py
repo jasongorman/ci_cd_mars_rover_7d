@@ -1,14 +1,7 @@
 import unittest
 
+from src.mars_rover import MarsRover
 
-class MarsRover:
-    def __init__(self, coordinates, direction):
-        self.coordinates = coordinates
-        self.direction = direction
-
-    def rotate_right(self, rotate):
-
-            self.direction = 'E'
 
 class rover(unittest.TestCase):
     def test_turn_right_facing_north(self):
