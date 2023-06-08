@@ -8,4 +8,4 @@ class MarsRover:
             self.direction = 'E'
 
     def rotate_left(self, rotate):
-        self.direction = 'W'
+            self.direction = 'W'

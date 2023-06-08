@@ -1,6 +1,6 @@
 import unittest
 
-from src.mars_rover import MarsRover
+from src.MarsRover import MarsRover
 
 class TestTurnLeft(unittest.TestCase):
     def test_turn_left_facing_north(self):

@@ -1,6 +1,6 @@
 import unittest
 
-from src.mars_rover import MarsRover
+from src.MarsRover import MarsRover
 
 
 class rover(unittest.TestCase):
