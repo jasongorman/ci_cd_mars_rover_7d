@@ -14,4 +14,11 @@ class MarsRover:
             self.direction = 'N'
 
     def rotate_left(self, rotate):
+        if self.direction == 'N':
             self.direction = 'W'
+        elif self.direction == 'W':
+            self.direction = 'S'
+        elif self.direction == 'S':
+            self.direction = 'E'
+        elif self.direction == 'E':
+            self.direction = 'N'
