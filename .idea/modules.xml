@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ci_cd_mars_rover.iml" filepath="$PROJECT_DIR$/.idea/ci_cd_mars_rover.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/mars_rover/.idea/mars_rover.iml" filepath="$USER_HOME$/PycharmProjects/mars_rover/.idea/mars_rover.iml" />
     </modules>
   </component>
 </project>
