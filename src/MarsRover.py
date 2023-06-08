@@ -22,3 +22,6 @@ class MarsRover:
             self.direction = 'E'
         elif self.direction == 'E':
             self.direction = 'N'
+
+    def forwards(self):
+        self.coordinates[1] = self.coordinates[1] + 1
